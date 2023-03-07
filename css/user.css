@@ -290,7 +290,11 @@ li {
 .hero--banner {
   width: 100%;
   height: 120vh;
-
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)),
+    url(/images/Backgrounds/Background.jpg) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
   color: #fff;
   /* animation: hero-bg-swap 10s linear infinite; */
   animation: hero-bg-swap 5s ease-in-out infinite alternate-reverse forwards;
