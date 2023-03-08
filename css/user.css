@@ -589,19 +589,19 @@ h4 {
 }
 .feature--container {
   border-top: 5px solid #760000;
-  box-shadow: -25px 25px 15px 5px rgba(170, 170, 170, 0.1);
+  box-shadow: -25px 25px 15px 5px rgba(200, 200, 200, 0.1);
   padding: 5rem;
   border-radius: 1rem;
   transition: 0.5s;
   cursor: pointer;
 }
 .feature--container:hover {
-  transform: scale(1.03);
+  transform: scale(1.01);
 }
 
 .feature {
   gap: 4rem 2rem;
-  margin: 12rem 0;
+  margin: 10rem 0;
 }
 
 .feature:first-of-type {
