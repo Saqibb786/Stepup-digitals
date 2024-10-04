@@ -2,7 +2,7 @@
 
 This is a fully functional and responsive website built for a digital services agency offering web development, SEO, graphic design, and content writing services. The website features smooth animations, a contact form, and a modern design. It is built using core HTML, CSS, and JavaScript.
 
-![Stepup digitals Preview](./iamges/StepUpDigitals-thumbnail.jpg)
+![Stepup digitals Preview](./images/StepUpDigitals-thumbnail.jpg)
 
 ## Live Demo
 The site is hosted live on Netlify. You can view it here: [StepUp](https://stepupbydevpeaks.netlify.app/)
