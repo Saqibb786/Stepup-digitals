@@ -26,4 +26,4 @@ To run this project locally:
 Feel free to fork this repository and submit a pull request if you want to contribute. You can also open an issue for any bug reports or feature requests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
